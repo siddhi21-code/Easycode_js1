@@ -1,3 +1,4 @@
+![1000115596](https://github.com/user-attachments/assets/35114354-e5da-4873-af4b-d28940607d02)
 What is JavaScript?
 JavaScript was initially created to “make web pages alive”.
 
