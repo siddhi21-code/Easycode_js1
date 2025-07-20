@@ -23,14 +23,22 @@ while( number <= 100){
     num ++
  } while (num < 7);
  
- //for-of loop
+ //for-in loop
  //ex1
- let str ="Easy Code";
- for( let i of str){
-    console.log("i=", i);
+ let obj ={
+    name :"siddhi",
+    city : "pune",
+    eduction :"bca"
+
+ }
+ for(let i in obj){
+    console.log(i)
  }
 
- 
-
-
+//for-of loop 
+//ex1
+let cars =["thar","range rover","triber","santro"]
+for(let car of cars){
+   console.log(car)
+}
 
